@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jonpderr
+- 👀 I’m interested in backend design, architechting highly-scalable microservice systems, and learning new ways of creating software.
+- 🌱 I’m currently learning Docker, .NET, and refamiliarizing myself with Node.js/Express.
+- 📫 How to reach me:
+    - Email (preferred) - jon.p.derr@gmail.com
+    - LinkedIn - https://www.linkedin.com/in/jon-derr-4aa2a81b2/
+    - Phone - Contact me through any other means, and I'll get it to you
